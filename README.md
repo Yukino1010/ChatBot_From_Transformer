@@ -12,4 +12,10 @@ add some randomness to the model's output to make sure that the same input can h
 <img width="400px" src="https://github.com/Yukino1010/ChatBot_From_Transformer/blob/master/result/result2.png"/>
 </p>
 
-This result seems fantastic, the model does work on the 
+<br>
+This result seems fantastic, the model can indeed handle the pattern of daily conversation. <br>
+For example, when I say 你今年幾歲? (how old are you this year?) on the first picture the model reply 幼稚園畢業啦 (just graduated from kindergarten). <br>
+
+In this case we can see the model should knew the meaning of 「幾歲」 to generate the sentence, and the things what surprised me was that the model reply a period of time (just graduated from kindergarten) instead of a point in time (such as 19 years old), I think it may be caused by the nature of my dataset.
+
+Finally, I also found something very funny. On the last line of the second picture, I say 你是笨蛋嗎? (Are you stupid?) and the model replys 我們都一樣 (we are the same!) 
