@@ -12,3 +12,4 @@ add some randomness to the model's output to make sure that the same input can h
 <img width="400px" src="https://github.com/Yukino1010/ChatBot_From_Transformer/blob/master/result/result2.png"/>
 </p>
 
+This result seems fantastic, the model does work on the 
